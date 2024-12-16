@@ -26,6 +26,7 @@ Die **Centura AG** hat ihren Sitz in Rapperswil-Jona und ist Ihr verlässlicher 
 ## Kontakt
 
 Wir freuen uns, von Ihnen zu hören!  
+
 📍 **Centura AG**  
 Meienbergstrasse 5  
 8645 Rapperswil-Jona  
