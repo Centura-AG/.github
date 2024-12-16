@@ -38,4 +38,4 @@ Schweiz
 
 ---
 
-Wir freuen uns, gemeinsam mit Ihnen an einer effizienten und modernen digitalen Zukunft zu arbeiten! 🚀
+Wir freuen uns, gemeinsam mit Ihnen an einer effizienten und modernen digitalen Zukunft zu arbeiten!
