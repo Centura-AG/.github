@@ -1,12 +1,39 @@
-## Hi there 👋
+# Centura AG – Unkomplizierte ERP-Lösungen für Schweizer KMUs
 
-<!--
+Willkommen im offiziellen GitHub-Repository der **Centura AG**! Wir sind Ihr Partner für moderne ERP-Lösungen, speziell entwickelt für die Bedürfnisse von Schweizer kleinen und mittleren Unternehmen. Unsere Mission ist es, Geschäftsprozesse zu optimieren und mit innovativer Open-Source-Software effizienter zu gestalten.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Unsere Schwerpunkte
+
+### 🌟 Beratung und Analyse
+Wir analysieren Ihre Geschäftsprozesse und helfen Ihnen, diese zu optimieren. Unsere Expertise ermöglicht es uns, Verbesserungspotenziale zu erkennen und effiziente Lösungen für die digitale Zukunft zu entwickeln.
+
+### 🛠 Individuelle Anpassungen
+Keine zwei Unternehmen sind gleich – deshalb passen wir ERPNext und andere Frappe-Anwendungen an Ihre spezifischen Anforderungen an. Von branchenspezifischen Funktionen bis hin zu massgeschneiderten Dashboards bieten wir Ihnen eine Lösung, die perfekt zu Ihnen passt.
+
+### 🔒 Sicheres Hosting
+Ihre Daten sind bei uns sicher! Wir bieten Hosting-Lösungen in der Schweiz mit höchsten Sicherheitsstandards, regelmässigen Backups und einem Rundum-sorglos-Service.
+
+---
+
+## Über uns
+
+Die **Centura AG** hat ihren Sitz in Rapperswil-Jona und ist Ihr verlässlicher Partner auf dem Weg der digitalen Transformation. Unser Team aus Experten unterstützt Sie mit Beratung, Implementierung und lokalem Support.
+
+---
+
+## Kontakt
+
+Wir freuen uns, von Ihnen zu hören!  
+📍 **Centura AG**  
+Meienbergstrasse 5  
+8645 Rapperswil-Jona  
+Schweiz  
+
+📧 **E-Mail**: info@centura.ch  
+🌐 **Website**: [centura.ch](https://centura.ch)  
+
+---
+
+Wir freuen uns, gemeinsam mit Ihnen an einer effizienten und modernen digitalen Zukunft zu arbeiten! 🚀
