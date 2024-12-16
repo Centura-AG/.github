@@ -33,6 +33,7 @@ Schweiz
 
 📧 **E-Mail**: info@centura.ch  
 🌐 **Website**: [centura.ch](https://centura.ch)  
+🔗 **LinkedIn**: [Centura AG auf LinkedIn](https://www.linkedin.com/company/104098945/) 
 
 ---
 
